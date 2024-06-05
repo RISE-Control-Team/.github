@@ -38,8 +38,3 @@ By leveraging the expertise in control theory and engineering, the Control Team 
 | Max. thrust        | 1000 N |
 | Max mass flow rate	| 0.5 kg/s |
 | Exhaust velocity   | 2000 m/s |
-
-
-## Control Team Progress
-- [ ] 3D Simulation of Alpha
-- [x] Thrust vectoring control system - Simulink Model
