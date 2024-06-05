@@ -21,7 +21,7 @@ The folders contain the overall R&D of the control team which contributes to the
 The Control Teams’s primary role entails designing the control systems of the Aplha rocket. The team's responsability is the development of the control algorithms to regulate the launch, ascent, descent and landing phase of Alpha. Currently, the rocket includes Thrust Vector Control (TVC), Air Braking System (ABS), Support Ascent Mechanism (SAM) and Support Descent Mechanism (SDM) as its mechanisms for the overall control of the rocket. 
 
  <p align="center">
-   <img src="/images/MK5.png" width="512">
+   <img src="/images/FLIGHT.PNG" width="512">
  </p>
 
 
