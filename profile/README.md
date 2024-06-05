@@ -32,15 +32,14 @@ By leveraging the expertise in control theory and engineering, the Control Team 
 
 | Specs        | Values           |
 | ------------- |:-------------:|
-| Dry mass 	         | 8.4 kg | 
-| Wet mass           | 9.1 kg |
-| Max. altitude 	   | 1022 m |
-| Max. velocity      | 500 km/h |
-| Max. acceleration  | 6.4 g |
-| Max. thrust        | 500 N |
+| Rocket height      | 3.081 m |
+| Dry mass 	         | 20 kg | 
+| Wet mass           | 15 kg |
+| Max. thrust        | 1000 N |
+| Max mass flow rate	| 0.5 kg/s |
+| Exhaust velocity   | 2000 m/s |
 
 
 ## Control Team Progress
-- [x] Thrust vectoring control system - Simulink Model
-- [ ] Suidcide burn simulation
 - [ ] 3D Simulation of Alpha
+- [x] Thrust vectoring control system - Simulink Model
