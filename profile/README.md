@@ -33,8 +33,8 @@ By leveraging the expertise in control theory and engineering, the Control Team 
 | Specs        | Values           |
 | ------------- |:-------------:|
 | Rocket height      | 3.081 m |
-| Dry mass 	         | 20 kg | 
-| Wet mass           | 15 kg |
+| Wet mass           | 20 kg |
+| Dry mass 	         | 15 kg | 
 | Max. thrust        | 1000 N |
 | Max mass flow rate	| 0.5 kg/s |
 | Exhaust velocity   | 2000 m/s |
